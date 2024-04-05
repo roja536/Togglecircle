@@ -1,6 +1,6 @@
 
 import './App.css';
-import PropsProject from './components/PropsProject';
+import PropsProject from './cartoon/PropsProject';
 //import Star from './components/Star';
 
 
