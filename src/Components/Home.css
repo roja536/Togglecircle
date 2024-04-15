@@ -1,0 +1,14 @@
+
+img{
+    background-position: center;
+}
+h1{
+    color:blue;
+    
+}
+@media only screen and(min-width:428px) and (max-width:768px){
+   .heading{
+       
+        background-color: aqua;
+    }
+}
