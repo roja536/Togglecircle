@@ -1,0 +1,38 @@
+h1 {
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    color: white;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50%;
+    margin-top: 25%;
+
+
+}
+
+.quote {
+    color: black;
+    font-weight: bold;
+}
+
+.author {
+    color: rgb(232, 232, 236);
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: linear-gradient(200deg, rgb(0, 255, 64), rgb(247, 0, 255));
+    height: 20%;
+    width: 80%;
+    position: absolute;
+}

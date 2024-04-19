@@ -1,12 +1,11 @@
 
 import './App.css';
-import Todo from './Components/Todo';
+import RandomQuoteGenerator from './Components/RandomQuoteGenerator';
+
 
 function App() {
   return (
-    <>
-      <Todo />
-    </>
+    <RandomQuoteGenerator />
 
   );
 }
