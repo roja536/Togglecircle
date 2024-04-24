@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(165, 108, 33);
+}
+
+.container1 {
+    background-color: antiquewhite;
+    width: 150px;
+    padding: 20px 10px 10px 10px;
+    text-align: end;
+}
+
+.inline-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px !important;
+
+}
+
+.grid-child {
+    background-color: rgb(234, 234, 238);
+    border: 1px solid rgb(240, 238, 238);
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px #e9ecef;
+
+}
